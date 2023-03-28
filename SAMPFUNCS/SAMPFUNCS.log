@@ -1,0 +1,70 @@
+[17:38:56] 
+SAMPFUNCS v5.5.0 rel.22 (SA-MP 0.3.7 R3-1)
+Compiled: Jan 10 2022 04:13:37
+
+Copyright (c) 2013-2018, BlastHack Team <blast.hk>
+
+[17:38:56] Base address: 0x575A0000.
+[17:38:56] Initializing opcodes...
+[17:38:56] Opcodes initialized successfully. Total opcodes: 382.
+[17:38:56] Hook "CTimer::GetRealTimeScale" installed.
+[17:38:56] Hook "CPad::Update" installed.
+[17:38:56] Hook "CCamera::RenderMotionBlur" installed.
+[17:38:56] Hook "CScriptThread::AddScriptToQueue" installed.
+[17:38:56] Hook "CScriptThread::RemoveScriptFromQueue" installed.
+[17:38:56] Hook "CScriptThread::Process" installed.
+[17:38:56] Hook "WinMainLoop" installed.
+[17:38:56] Hook "CLoadingScreen::RenderSplash" installed.
+[17:38:56] Hook "CVehicle::CVehicle" installed.
+[17:38:56] Hook "CVehicle::~CVehicle" installed.
+[17:38:56] Hook "CPed::CPed" installed.
+[17:38:56] Hook "CPed::~CPed" installed.
+[17:38:59] samp.dll base addres: 0x03F90000
+[17:38:59] Hook "SAMP: CNetGame::CNetGame" installed.
+[17:38:59] Hook "SAMP: CDialog::Close" installed.
+[17:38:59] Hook "SAMP: QuitGame" installed.
+[17:38:59] Hook "SAMP: CCmdWindow::ProcessInput" installed.
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Session started.
+[17:39:22] {C0C0C0}[ML] {C0C0C0}
+MoonLoader v.026.5-beta loaded.
+[17:39:22] {C0C0C0}[ML] {C0C0C0}Developers: FYP, hnnssy, EvgeN 1137
+
+[17:39:22] {C0C0C0}[ML] {C0C0C0}Copyright (c) 2016, BlastHack Team
+[17:39:22] {C0C0C0}[ML] {C0C0C0}http://blast.hk/moonloader/
+
+[17:39:22] {C0C0C0}[ML] {A9EFF5}(info) {C0C0C0}Working directory: C:\Games\Arizona Games Launcher\bin\village\moonloader
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Installing pre-game hooks...
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Hooks installed.
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\AutoReboot.lua'...
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}ML-AutoReboot: {C0C0C0}Loaded successfully.
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\check-moonloader-updates.lua'...
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}Check MoonLoader Updates: {C0C0C0}Loaded successfully.
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\reload_all.lua'...
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}ML-ReloadAll: {C0C0C0}Loaded successfully.
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\SF Integration.lua'...
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}SF Integration: {C0C0C0}Loaded successfully.
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\Wolfram.luac'...
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}Wolfram: {C0C0C0}Loaded successfully.
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Installing post-load hooks...
+[17:39:22] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Hooks installed.
+[17:39:22] Direct3DDevice9 hook installed.
+[17:39:23] Hook "SAMP: RakPeer::HandleRPCPacket" installed.
+[17:39:23] Initializing SAMP data...
+[17:39:23] NetGame initialized.
+[17:39:23] Pools initialized.
+[17:39:23] Player pool initialized.
+[17:39:23] Vehicle pool initialized.
+[17:39:23] Chat initialized.
+[17:39:23] Input initialized.
+[17:39:23] Death list initialized.
+[17:39:23] Dialog initialized.
+[17:39:23] Misc data initialized.
+[17:39:23] Scoreboard initialized.
+[17:39:23] RakNet initialized.
+[17:39:23] SAMPFUNCS v5.5.0 rel.22 (SA-MP 0.3.7 R3-1) completely loaded!
+[17:39:24] {C0C0C0}[ML] {7DD156}(script) {E0E0E0}Wolfram: {C0C0C0}{00FF00}Wolfram | {ffffff} Download Started
+[17:39:25] {C0C0C0}[ML] {7DD156}(script) {E0E0E0}Wolfram: {C0C0C0}{00FF00}Wolfram | {ffffff}WolframHentai.mp3 downloaded
+[17:39:25] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}Wolfram: {C0C0C0}Script terminated. (2915858C)
+[17:39:25] {C0C0C0}[ML] {FA9746}(system) {C0C0C0}Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\Wolfram.luac'...
+[17:39:25] {C0C0C0}[ML] {FA9746}(system) {E0E0E0}Wolfram: {C0C0C0}Loaded successfully.
+[17:39:26] {C0C0C0}[ML] {7DD156}(script) {E0E0E0}Wolfram: {C0C0C0}vPascal (Open Beta): no update

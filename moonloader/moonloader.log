@@ -1,0 +1,41 @@
+[17:38:56.883356] (system)	Session started.
+[17:38:56.883356] (debug)	Module handle: 578E0000
+
+MoonLoader v.026.5-beta loaded.
+Developers: FYP, hnnssy, EvgeN 1137
+
+Copyright (c) 2016, BlastHack Team
+http://blast.hk/moonloader/
+
+[17:38:56.883356] (info)	Working directory: C:\Games\Arizona Games Launcher\bin\village\moonloader
+[17:38:56.883356] (debug)	FP Control: 0109001F
+[17:38:56.883356] (debug)	Game: GTA SA 1.0.0.0 US
+[17:38:56.883356] (system)	Installing pre-game hooks...
+[17:38:56.885351] (system)	Hooks installed.
+[17:38:59.528076] (debug)	Initializing opcode handler table
+[17:38:59.528076] (debug)	package.path = C:\Games\Arizona Games Launcher\bin\village\moonloader\lib\?.lua;C:\Games\Arizona Games Launcher\bin\village\moonloader\lib\?\init.lua;C:\Games\Arizona Games Launcher\bin\village\moonloader\?.lua;C:\Games\Arizona Games Launcher\bin\village\moonloader\?\init.lua;.\?.lua;C:\Games\Arizona Games Launcher\bin\village\moonloader\lib\?.luac;C:\Games\Arizona Games Launcher\bin\village\moonloader\lib\?\init.luac;C:\Games\Arizona Games Launcher\bin\village\moonloader\?.luac;C:\Games\Arizona Games Launcher\bin\village\moonloader\?\init.luac;.\?.luac
+[17:38:59.528076] (debug)	package.cpath = C:\Games\Arizona Games Launcher\bin\village\moonloader\lib\?.dll;
+[17:38:59.533063] (system)	Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\AutoReboot.lua'...
+[17:38:59.533063] (debug)	New script: 1883C374
+[17:38:59.534060] (system)	ML-AutoReboot: Loaded successfully.
+[17:38:59.534060] (system)	Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\check-moonloader-updates.lua'...
+[17:38:59.534060] (debug)	New script: 1883C80C
+[17:38:59.535058] (system)	Check MoonLoader Updates: Loaded successfully.
+[17:38:59.535058] (system)	Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\reload_all.lua'...
+[17:38:59.535058] (debug)	New script: 29159AFC
+[17:38:59.536055] (system)	ML-ReloadAll: Loaded successfully.
+[17:38:59.536055] (system)	Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\SF Integration.lua'...
+[17:38:59.536055] (debug)	New script: 29158EBC
+[17:38:59.538050] (system)	SF Integration: Loaded successfully.
+[17:38:59.538050] (system)	Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\Wolfram.luac'...
+[17:38:59.538050] (debug)	New script: 2915858C
+[17:38:59.554007] (system)	Wolfram: Loaded successfully.
+[17:39:22.407419] (system)	Installing post-load hooks...
+[17:39:22.407419] (system)	Hooks installed.
+[17:39:24.684432] (script)	Wolfram: {00FF00}Wolfram | {ffffff} Download Started
+[17:39:25.190835] (script)	Wolfram: {00FF00}Wolfram | {ffffff}WolframHentai.mp3 downloaded
+[17:39:25.209850] (system)	Wolfram: Script terminated. (2915858C)
+[17:39:25.210848] (system)	Loading script 'C:\Games\Arizona Games Launcher\bin\village\moonloader\Wolfram.luac'...
+[17:39:25.210848] (debug)	New script: 2F052904
+[17:39:25.255313] (system)	Wolfram: Loaded successfully.
+[17:39:25.656354] (script)	Wolfram: vPascal (Open Beta): no update

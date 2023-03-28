@@ -1,2 +1,0 @@
-# wolfram-project
-wolfram-project
