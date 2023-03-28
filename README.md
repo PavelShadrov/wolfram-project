@@ -1,2 +1,0 @@
-# Wolfram Project
-Wolfram Tools
