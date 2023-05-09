@@ -3,8 +3,9 @@
 -- Copyright (c) 2016, FYP @ BlastHack Team <blast.hk>
 -- https://github.com/THE-FYP/SAMP.Lua
 
-local BitStreamIO = require 'samp.events.bitstream_io'
-local utils = require 'samp.events.utils'
+
+local BitStreamIO = require 'lib.samp.events.bitstream_io'
+local utils = require 'lib.samp.events.utils'
 
 BitStreamIO.PlayerScorePingMap = {
 	read = function(bs)

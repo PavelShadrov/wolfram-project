@@ -3,6 +3,7 @@
 -- Copyright (c) 2016, FYP @ BlastHack Team <blast.hk>
 -- https://github.com/THE-FYP/SAMP.Lua
 
+
 local MODULE =
 {
 	MODULEINFO = {
@@ -10,7 +11,7 @@ local MODULE =
 		version = 1
 	}
 }
-require 'sampfuncs'
+require 'lib.sampfuncs'
 
 MODULE.RPC = {
 	CLICKPLAYER                   = RPC_CLICKPLAYER,
@@ -152,8 +153,7 @@ MODULE.RPC = {
 	WORLDPLAYERREMOVE             = RPC_SCRWORLDPLAYERREMOVE,
 	WORLDVEHICLEADD               = RPC_SCRWORLDVEHICLEADD,
 	WORLDVEHICLEREMOVE            = RPC_SCRWORLDVEHICLEREMOVE,
-	WORLDPLAYERDEATH              = RPC_SCRWORLDPLAYERDEATH,
-	CREATEACTOR                   = 171,
+	WORLDPLAYERDEATH              = RPC_SCRWORLDPLAYERDEATH
 }
 
 MODULE.PACKET = {

@@ -3,7 +3,8 @@
 -- Copyright (c) 2016, FYP @ BlastHack Team <blast.hk>
 -- https://github.com/THE-FYP/SAMP.Lua
 
-local Vector3D = require 'vector3d'
+
+local Vector3D = require 'lib.vector3d'
 local BitStreamIO = {}
 
 BitStreamIO.bool = {
@@ -50,7 +51,7 @@ BitStreamIO.string16 = {
 		return raknetBitStreamReadString(bs, len)
 	end,
 	write = function(bs, value)
-		raknetBitStreamWriteInt16(bs, #value)
+		raknetBitStreamReadInt16(bs, #value)
 		raknetBitStreamWriteString(bs, value)
 	end
 }

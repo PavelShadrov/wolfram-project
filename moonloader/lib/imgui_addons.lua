@@ -100,7 +100,7 @@ module.HotKey = function(name, keys, lastkeys, width)
     local lastkeys = lastkeys or {}
     local keys, bool = keys or {}, false
     lastkeys.v = keys.v
- 
+
     local sKeys = table.concat(module.getKeysName(keys.v), " + ")
 
     if #tHotKeyData.save > 0 and tostring(tHotKeyData.save[1]) == name then

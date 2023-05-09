@@ -145,7 +145,7 @@ lua_thread.create(function ()
                   tBlockNext[id] = nil
                end
             end
-         end 
+         end
       end
    end
 end)
